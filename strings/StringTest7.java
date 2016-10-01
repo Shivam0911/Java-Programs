@@ -5,7 +5,7 @@ class StringTest7
 {
 	public static void main(String args[])
 	{
-		StringBuffer sb = new StringBuffer("Unisoft Technologies");		//Mutable
+		StringBuffer sb = new StringBuffer("Shivam Gaur");		//Mutable
 		out.println(sb);
 
 		//sb.append(", Dehradun");
